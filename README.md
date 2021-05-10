@@ -3,10 +3,10 @@ We were given starter code to generate a password. While I was able to have prom
 Also attached are screenshots of the prompts that functioned.
 
 
-![screenshot](assets/screenshots/screenshot16.png)
-![screenshot](assets/screenshots/screenshot17.png)
-![screenshot](assets/screenshots/screenshot18.png)
-![screenshot](assets/screenshots/screenshot19.png)
-![screenshot](assets/screenshots/screenshot20.png)
-![screenshot](assets/screenshots/screenshot21.png)
-![screenshot](assets/screenshots/screenshot22.png)
+![screenshot](assets/screenshots/Screenshot16.png)
+![screenshot](assets/screenshots/Screenshot17.png)
+![screenshot](assets/screenshots/Screenshot18.png)
+![screenshot](assets/screenshots/Screenshot19.png)
+![screenshot](assets/screenshots/Screenshot20.png)
+![screenshot](assets/screenshots/Screenshot21.png)
+![screenshot](assets/screenshots/Screenshot22.png)
